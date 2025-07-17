@@ -4,8 +4,6 @@
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
-
 [Live Report Link](https://www.novypro.com/project/atliq-hardware-business-insights-360)
 
 ## Tech stacks
@@ -137,7 +135,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. 
 - In this project, we have followed Snowflake data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+<img src="Resources/Data_model.png" class="center">
 
 ### Dashboard designing
 
