@@ -36,12 +36,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Setting up personal gateway to set up the auto refresh of data
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
-- And more 😅
 
-## GitHub 
-
-- Uploading Large size files using GitHub LFS
-- Tracking the particular type of file extensions for LFS
 
 ## Business related terms
 
@@ -69,24 +64,6 @@ AltiQ hardware is a company which has grown vastly in the recent years, and open
 - Distributors
 
 Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry. 
-
-Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
-
-### Questions to ask before starting with dashboard
-
-- What is the objective of building this PowerBi dashboard?
-- In what terms the success of this project will be measured?
-- What will be time dead-line of the project?
-- do the stakeholders expecting pre-view before the actual release?
-- What are all the hopes stakeholders have out of this project?
-- what are all fears the stakeholder have in terms of building this dashboard?
-- Who are all will be using this dashboard and for what purpose?
-- what are all expectation the stakeholders have, by the completion of this project?
-- What can go wrong while building this project?
-- what are all the resources/ data needed to build this dashboard?
-- is there any inputs from stakeholders in terms of design and views of the dashboard?
-
-After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
 ### Dataset **Understanding.**
 
@@ -157,8 +134,8 @@ Fact table : It will have the data about the transactions
 
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
-- Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
-- In this project, we have followed Snowfall data modeling method.
+- Following Good practices of data modeling is must. 
+- In this project, we have followed Snowflake data modeling method.
 
 <img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
 
